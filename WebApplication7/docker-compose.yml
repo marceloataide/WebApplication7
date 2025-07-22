@@ -1,7 +1,7 @@
 
 services:
   webapplication7:
-    image: marceloataide/webapplication:v2
+    image: marceloataide/webapplication7:lastest
     build:
       context: .
       dockerfile: Dockerfile
